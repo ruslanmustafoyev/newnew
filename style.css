@@ -1,0 +1,35 @@
+.one{
+background-color: rgb(228, 245, 245);
+color: black;
+text-align: center;
+font-size: 28px;
+}
+
+.two{
+  background-color: rgb(228, 245, 245);
+  text-align: center;
+  color: black;
+  font-size: 28px;
+  }
+  .three{
+    text-align: center;
+    background-color: rgb(228, 245, 245);
+    color: black;
+    font-size: 28px;
+    }
+
+    .J{
+     margin: 0;
+     padding: 0;
+  font-size: 40px;
+text-align: center;
+    }
+
+    .L{
+      display: flex;
+      flex-direction: row;
+      font-style: normal;
+      border: none;
+      color: black;
+      font-size: 25px;
+    }
